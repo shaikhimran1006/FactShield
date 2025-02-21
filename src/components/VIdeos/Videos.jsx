@@ -1,6 +1,7 @@
 import React, { useState, useCallback } from "react";
 import { Client, Storage, ID } from "appwrite";
 import { useDropzone } from "react-dropzone";
+import Videos from "../components/Videos/Videos";
 
 // Initialize Appwrite
 const client = new Client()
