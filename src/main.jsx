@@ -9,7 +9,7 @@ import ContactUs from "./components/ContactUs/ContactUs";
 import Home from "./components/Home/Home";
 import News from "./components/News/News";
 import Photos from "./components/Photos/Photos";
-import Videos from "./components/Videos/Videos";
+import Videos from "./components/Videos";
 import i18n from "./components/i18next/i18n"; // Import i18n
 import { I18nextProvider } from "react-i18next"; // Import Provider
 import Transcript from "./components/Transcript/Transcript";
